@@ -3,23 +3,7 @@
 
   <url>
     <loc>https://portfolio-puce-two-89.vercel.app/</loc>
-    <lastmod>2026-01-03</lastmod>
     <priority>1.0</priority>
-  </url>
-
-  <url>
-    <loc>https://portfolio-puce-two-89.vercel.app/#about</loc>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://portfolio-puce-two-89.vercel.app/#projects</loc>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://portfolio-puce-two-89.vercel.app/#contact</loc>
-    <priority>0.7</priority>
   </url>
 
 </urlset>
